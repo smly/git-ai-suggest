@@ -1,4 +1,4 @@
-Generate 2 pull request title and body options for the changes in the following diff.
+Generate 2 pull request title and body options in English for the changes in the following diff.
 The output format should be:
 [1] <title 1>
 

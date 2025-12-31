@@ -57,3 +57,7 @@ Created pull request!
 ## Options
 
 - `--model <MODEL_NAME>`: Specify the Gemini model to use (default: `gemini-2.5-flash`).
+
+## TODO
+
+- [ ] Find commitlint config and use it to validate suggested commit messages
