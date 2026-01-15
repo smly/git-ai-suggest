@@ -12,7 +12,7 @@ uv tool install .
 
 ```bash
 # Suggest commit message for staged changes
-$ ga m
+$ g m
 On branch feat/benchmark-agari
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
@@ -36,7 +36,7 @@ Committed!
 
 ```bash
 # Suggest pull request title and body for the current branch
-$ ga p
+$ g p
 
 Choose pull request title and body:
 [1] feat: Add benchmark script and docs

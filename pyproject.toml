@@ -4,14 +4,14 @@ build-backend = "hatchling.build"
 
 [project]
 name = "git-ai-suggest"
-version = "0.2.0"
+version = "0.2.2"
 description = "Gemini CLI wrapper for git suggestions"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
 
 [project.scripts]
-ga = "gas.cli:main"
+g = "gas.cli:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/gas"]
